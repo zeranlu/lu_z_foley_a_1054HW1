@@ -30,6 +30,34 @@
 
 ![closeup of tacos](images/tacos.jpg)
 
+
+***Name - Annie Foley***
+
+**Hometown** - *London, On*
+
+**Likes**
+
+-blueberries
+
+-swimming
+
+-Avatar: The Last Airbender
+
+
+**Hobbies** 
+
+- reading
+
+- nail art
+
+- window shopping
+
+**Favourite movies**
+1. Meet The Robinsons
+2. Pride and Prejudice (2005)
+3. The Incredibles
+
+![garden path in park](images/garden.jpg)
 ## Installation
 
 Zeran created the repo and created folder structure.
